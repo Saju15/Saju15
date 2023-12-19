@@ -6,8 +6,6 @@ From small coding exercises to full-fledged projects, I've taken every opportuni
 
 My projects may not be the most groundbreaking, but each one represents a step in my growth and passion for coding. I'm eager to share them with you!
 
-Feel free to explore my work and journey, and if you have any feedback or advice, I'm always open to learning and improving.
-
 I hope you find something interesting here.
 
 -Saju 💕
